@@ -1,3 +1,5 @@
+[![An image of @geekymehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/geekymehta)](https://holopin.io/@geekymehta)
+
 - 👋 Hi, I’m Sumit Mehta
 - 👀 I’m interested in Full Stack Development, Blockchain & Cyber Security
 - 🌱 I’m currently learning MERN Stack, DSA and DBMS
