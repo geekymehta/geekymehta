@@ -2,7 +2,6 @@
 # 💫 About Me:
 👋 Hi, I’m Sumit Mehta<br>👀 I’m interested in Full Stack Development, DevOps & Blockchain <br>🌱 I’m currently learning DSA and Bitcoin <br>💞️ I’m looking to collaborate on any and all kind of projects<br>📫 Reach me at sumitmehta021@gmail.com or www.linkedin.com/in/sumit-mehta021
 
-[![An image of @geekymehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/geekymehta)](https://holopin.io/@geekymehta)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Ufn9GAgr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-mehta021) 
@@ -16,9 +15,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geekymehta&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geekymehta&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!---
-sumitmehta021/sumitmehta021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![An image of @geekymehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/geekymehta)](https://holopin.io/@geekymehta)
+
