@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I’m Sumit Mehta<br>👀 I’m interested in Full Stack Development, DevOps & Blockchain <br>🌱 I’m currently learning DevOps and Bitcoin <br>💞️ I’m looking to collaborate on any and all kind of projects<br>📫 Reach me at sumitmehta021@gmail.com or www.linkedin.com/in/sumit-mehta021
+👋 Hi, I’m Sumit Mehta<br>👀 I’m interested in Full Stack Development, DevOps & ML/AI <br>🌱 I’m currently learning DevOps and Bitcoin <br>💞️ I’m looking to collaborate on any and all kind of projects<br>📫 Reach me at sumitmehta021@gmail.com or www.linkedin.com/in/sumit-mehta021
 
 
 ## 🌐 Socials:
