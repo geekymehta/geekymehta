@@ -1,6 +1,14 @@
 
 # 💫 About Me:
-👋 Hi, I’m Sumit Mehta<br>👀 I’m interested in Full Stack Development, DevOps & ML/AI <br>🌱 I’m currently learning DevSecOps, Golang and ML/AI <br>💞️ I’m looking to collaborate on any and all kind of projects<br>📫 Reach me at sumitmehta021@gmail.com or www.linkedin.com/in/sumit-mehta021
+👋 Hi, I’m Sumit Mehta<br>
+👀 I’m interested in: 
+- DevOps, 
+- Building Scalable Low-latency Backend Systems Low & 
+- ML/AI <br>
+
+🌱 I’m currently learning DevSecOps, Golang and MLOps <br>
+💞️ I’m looking to collaborate on any and all kind of projects<br>
+📫 Reach me at sumitmehta021@gmail.com or www.linkedin.com/in/sumit-mehta021
 
 
 ## 🌐 Socials:
